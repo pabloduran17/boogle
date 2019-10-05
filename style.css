@@ -1,0 +1,52 @@
+body {
+    background-color: #999ffff;
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+ #inner {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.main {
+    text-align: center;
+    background-color: blue;
+    width: 500px;
+    margin:  auto;
+    height: 200px;
+}
+
+img{
+display:block;
+margin:auto;
+}
+
+#search {
+     width: 700px;
+     height: 20px;
+     border-radius: 10px;
+     text-align: center;
+     display: block;
+     margin: 0 auto;
+     font-family: consolas;
+}
+
+BODY { margin-top: 150px }
+
+<form id="formulario" action="enviado.php" method="post" class="text-center">
+
+
+
+
+
+
+
+
+
+
+
+
+
